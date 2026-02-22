@@ -22,6 +22,10 @@ const typo = StyleSheet.create({
   },
   pa:{
     fontSize:13,
+  },
+  textmenu:{
+    fontSize:10,
+    fontWeight:'bold',
   }
 })
 
